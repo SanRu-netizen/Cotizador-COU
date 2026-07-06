@@ -36,7 +36,7 @@ with c1:
     st.markdown("### 📝 Nueva Cotización")
     st.write("Crea una cotización seleccionando trabajos del catálogo inteligente. "
              "La descripción, los materiales y las observaciones se completan solas.")
-    st.page_link("..pages/1_Nueva_Cotizacion.py", label="Ir a Nueva Cotización", icon="➡️")
+    st.page_link("pages/1_Nueva_Cotizacion.py", label="Ir a Nueva Cotización", icon="➡️")
 with c2:
     st.markdown("### 👥 Clientes")
     st.write("Consulta o registra los datos de tus clientes y sus proyectos.")
