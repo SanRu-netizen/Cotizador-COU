@@ -1,0 +1,5 @@
+streamlit>=1.58
+sqlalchemy>=2.0
+reportlab>=4.0
+pillow>=10.0
+num2words>=0.5
